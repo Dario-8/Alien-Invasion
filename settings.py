@@ -17,3 +17,4 @@ class Settings():
         self.bullet_width = 3
         self.bullet_height = 20
         self.speed_factor = 1
+        self.bullets_allowed = 3
